@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx src/app.ts",
     "test": "vitest"
   },
   "keywords": [],
@@ -20,6 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.5.7",
+    "mockdate": "^3.0.5",
     "tsx": "^3.12.7"
   }
 }
