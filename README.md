@@ -27,27 +27,26 @@ Refatorar: O código foi refatorado para melhorar sua estrutura e legibilidade, 
 Repetir: Esse ciclo foi repetido para cada nova funcionalidade adicionada ao projeto.
 Estrutura do Projeto:
 
-``
-.
-├── backend
-│   ├── src
-│   │   ├── controllers
-│   │   ├── models
-│   │   ├── routes
-│   │   ├── services
-│   │   ├── tests
-│   │   └── app.js
-│   └── package.json
-├── frontend
-│   ├── public
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── services
-│   │   └── App.js
-│   └── package.json
+
+├── backend<BR>
+ │   ├── src <BR>
+│   │   ├── controllers <BR>
+│   │   ├── models <BR>
+│   │   ├── routes <BR>
+│   │   ├── services <BR>
+│   │   ├── tests <BR>
+│   │   └── app.js <BR> 
+│   └── package.json <BR>
+├── frontend <BR>
+│   ├── public <BR> 
+│   ├── src <BR>
+│   │   ├── components <BR>
+│   │   ├── pages <BR>
+│   │   ├── services <BR>
+│   │   └── App.js <BR>
+│   └── package.json <BR>
 └── README.md
-``
+
 
 Como Executar o Projeto
 
